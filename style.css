@@ -121,7 +121,7 @@
     padding-right: 10px;
 }
 
-@media only screen and (max-width: 400px){
+@media only screen and (max-width: 600px){
     .footer{
         padding: 40px 0;
         background: black;
@@ -134,24 +134,18 @@
         margin-top: 155px;
     }
 
-    .container-2{
-        padding-bottom: 50px;
-    }
-
     .osk {
-        position: absolute; 
-        right: 0;
-        left: 80px;
-        bottom: 0;
+        position: relative; 
+        right: 370px;
+        bottom: 150px;
         max-width: 240px;
-        max-height: 240px;
-        margin-bottom: 100%;
+        max-width: 240px;
     }
 
     .text{
-        margin-right: 270px;
+        margin-right: 75px;
         margin-top: 15em;
-        text-align: start;
+        text-align: center;
         min-width: 350px;
     }
 
